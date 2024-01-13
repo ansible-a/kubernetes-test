@@ -1,2 +1,2 @@
 # kubernetess-test
-This is test Kubernetes repo.
+This Kubernetes repo managed from TEST Kubernetes Cluster.
