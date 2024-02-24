@@ -7,7 +7,7 @@ spec:
   selector:
     app: sample-nginx-app
   ports:
-    - port: 8080 # This is the port for service which means if I want to access my service I can use service IP 
+    - port: 80 # This is the port for service which means if I want to access my service I can use service IP 
                  # and the port of 8080 and I can access the deployed container
       # By default and for convenience, the `targetPort` is set to
       # the same value as the `port` field. This is service port which can be accessed from Localip:8080.
